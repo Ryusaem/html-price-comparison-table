@@ -1,5 +1,5 @@
 # price-comparison-table
-Source → [webdevsimplified]([url](https://www.youtube.com/@WebDevSimplified))
+Source → [webdevsimplified](https://www.youtube.com/@WebDevSimplified)
 
 YouTube → https://youtu.be/M_bhZEY6_kM
 
